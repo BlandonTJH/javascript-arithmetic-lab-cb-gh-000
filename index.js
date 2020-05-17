@@ -1,6 +1,9 @@
-function makeInt(string){
+function add(){
+  number += 1
+}
+  
+function makeInt(){
   parseInt(string, 10)
 }
-var number = 1
 
-add5(number)
+
