@@ -1,4 +1,5 @@
 function makeInt(string){
   parseInt(string, 10)
 }
-1+2 
+n=1
+add5(n)
