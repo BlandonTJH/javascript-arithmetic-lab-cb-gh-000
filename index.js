@@ -6,6 +6,7 @@ function makeInt(){
   parseInt(string, 10)
 }
 
-function add(a,b){
-  return number = a+b
+function addab(){
+  return number = a + b
 }
+  
