@@ -3,7 +3,7 @@ function add(){
 }
 
 function makeInt(n){
-  parseInt(n, 10)
+  parseInt('n', 10)
 }
 
 function add(a, b){
