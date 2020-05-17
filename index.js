@@ -5,3 +5,7 @@ function add(){
 function makeInt(){
   parseInt(string, 10)
 }
+
+function add(a,b){
+  number = a+b
+}
