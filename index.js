@@ -26,3 +26,6 @@ function decrement(n){
   n--
   return n
 }
+function preserveDecimal(n){
+  return parseFloat(n, 10)
+}
