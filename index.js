@@ -2,8 +2,8 @@ function add(){
   number += 1
 }
 
-function makeInt(){
-  parseInt(string, 10)
+function makeInt(n){
+  parseInt(n, 10)
 }
 
 function add(a, b){
