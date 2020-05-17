@@ -19,12 +19,10 @@ function divide(a, b){
   return a / b
 }
 function increment(n){
-  n=1
   n++
   return n
 }
 function decrement(n){
-  n=1
   n--
   return n
 }
