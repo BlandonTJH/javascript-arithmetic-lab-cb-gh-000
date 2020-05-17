@@ -1,4 +1,3 @@
-number = 1
-function add5(){
-  number +=5
+function makeInt(string){
+  parseInt(string, 10)
 }
